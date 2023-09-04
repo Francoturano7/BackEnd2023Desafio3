@@ -127,7 +127,7 @@ const operations = async () => {
         // await manager.getProductById(2)
         // await manager.getProductById(8)
 
-       //  await manager.updateProduct(2,{price:2800,stock:75 })
+         await manager.updateProduct(2,{price:2800,stock:75 })
 
          // await manager.deleteProducts(4)
 

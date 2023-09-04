@@ -12,10 +12,10 @@
     "id": 2,
     "title": "MacBook Pro",
     "description": "PC",
-    "price": 2600,
+    "price": 2800,
     "thumbnail": "./pc",
     "code": "103",
-    "stock": 40
+    "stock": 75
   },
   {
     "id": 3,
